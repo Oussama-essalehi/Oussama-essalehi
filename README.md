@@ -87,6 +87,4 @@ Away from the keyboard: chess, poker and long runs. All three are about making g
 
 Always happy to talk data, swap ideas or team up on a project. If you have a data problem that needs someone who enjoys both the plumbing and the story it tells, my inbox is open.
 
-📫 [oussama.essalehi@gmail.com](mailto:oussama.essalehi@gmail.com) · 🌐 [oussama-essalehi.dev](https://oussama-essalehi.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/oussama-essalehi)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:0f2027,50:203a43,100:2c5364" alt="" width="100%" />
