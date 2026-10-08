@@ -14,6 +14,7 @@
 
 </div>
 
+
 ## ♟️ Opening: who I am
 
 I like data best when it's boring: clean, tested and on time. Getting it there is the fun part.
