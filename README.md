@@ -12,8 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/oussama-essalehi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oussama.essalehi@gmail.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=Oussama-essalehi&label=Profile%20views&color=2c5364&style=flat-square)
-
 </div>
 
 ## ♟️ Opening: who I am
